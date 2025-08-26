@@ -1,0 +1,1 @@
+run command: `php artisan serve`
